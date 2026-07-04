@@ -36,7 +36,7 @@ export const site = {
   facebook: "https://facebook.com/",
 
   // SEO
-  url: "https://cafe-origen-umber.vercel.app",
+  url: "https://demo-cafeteria-v1.ideawebx.com",
   locale: "es_AR",
 };
 
